@@ -1,3 +1,9 @@
+## v0.3.0 (2021-03-18)
+
+### Feat
+
+- **module_2**: feature 2 implemented (#7)
+
 ## v0.2.1 (2021-03-18)
 
 ### Fix

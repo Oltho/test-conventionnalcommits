@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v0.3.0"></a>
+## [v0.3.0] - 2021-03-18
+### Bump
+- version 0.2.1 → 0.3.0
+
+### Feat
+- **module_2:** feature 2 implemented ([#7](https://github.com/Oltho/test-conventionnalcommits/issues/7))
+
+
 <a name="v0.2.1"></a>
 ## [v0.2.1] - 2021-03-18
 ### Bump
@@ -45,7 +54,8 @@
 - init README docs
 
 
-[Unreleased]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.3.0...HEAD
+[v0.3.0]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.2.1...v0.3.0
 [v0.2.1]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.1.0...v0.2.0
 [v0.1.0]: https://github.com/Oltho/test-conventionnalcommits/compare/v0.0.0...v0.1.0
